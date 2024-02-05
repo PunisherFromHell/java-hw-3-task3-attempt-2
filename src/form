@@ -1,0 +1,20 @@
+// 1) index
+// 2) 1 плюс index
+// 3) 1+index возвести в количества месяцев
+// 4) результат 3го действия отнять 1
+// 5) резульат 4го действия отнять 1
+// 6)index разделить на результат 5го действия
+// 7) index прибавить результать 6го действия
+// 8) результат 7 действия умнодить на сумму долго
+
+
+double
+((index/(Math.pow((1+index),numberOfMonths))-1)+index)*loamAmount
+index = monthPercent / 100 / numberOfMonths
+
+
+1)percetnMonth = percentyear/12
+2) percenMonth + 1
+3) результат второего действия возвести в степень percenMonth
+4)результать третьего действия умножить на percenMonth
+5)
